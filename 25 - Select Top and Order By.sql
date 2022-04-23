@@ -1,0 +1,3 @@
+SELECT TOP 5 * FROM Course ORDER BY Credits ASC
+
+SELECT TOP 5 * FROM Course ORDER BY Credits DESC

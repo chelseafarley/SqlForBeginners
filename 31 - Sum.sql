@@ -1,0 +1,1 @@
+SELECT SUM(Credits) as 'Total Available Credits' FROM Course

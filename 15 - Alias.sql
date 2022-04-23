@@ -1,0 +1,1 @@
+SELECT c.Name as CourseName, c.Description as CourseDescription FROM Course as c

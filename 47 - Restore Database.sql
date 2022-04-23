@@ -1,0 +1,1 @@
+RESTORE DATABASE MissCodingSqlCourse FROM DISK = 'C:\Backups\MissCodingSqlCourse.bak'
